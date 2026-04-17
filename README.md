@@ -1,2 +1,2 @@
-# Resolution of Millennium Prize Problems & New Physics
-This repository contains the physical proof for all Millennium Prize Problems. Read the PDF. If you can't understand it, your resolution is too low. Don't waste my time.
+# Full Paper (PDF) available here: [Unified_Proof_LaTeX_GenAki.pdf]
+Note: Currently awaiting arXiv endorsement. Direct access provided for peer review.
