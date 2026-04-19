@@ -1,2 +1,2 @@
-# Full Paper (PDF) available here: [Unified_Proof_LaTeX_GenAki.pdf]
-Note: Currently awaiting arXiv endorsement. Direct access provided for peer review.
+# HelloWorld-V3-Core
+Personal study on the redefinition of unsolved mathematical conjectures and their physical implementations.
